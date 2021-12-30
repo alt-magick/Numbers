@@ -38,7 +38,7 @@ Here is a chart with the solution:.
 
 (eight) = (-2 + 7 + 0 + -7 + 10)   
 
-(nine) = (2 + 7 + 1 + -2)  
+(nine) = (2 + 7 + 2 + -2)  
 
 (ten) = (10 + -2 + 2) 
 
