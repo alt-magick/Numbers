@@ -187,6 +187,7 @@ all equations.
 The program successfully found one solution:
 
 Letter: O, N, E, T, W, H, R, F, U, I, V, S, X, G
+
 Value: 1, 2, -2, 10, -9, -7, 4, -6, 5, 7, 6, 3,
 -4, 0
 
