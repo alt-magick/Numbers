@@ -23,20 +23,33 @@ The Consistent Letter-to-Value Mapping
 
 Solving the 10 equations (one through ten) for the 14 unique letters yields a single, internally consistent integer mapping, presented here from highest to lowest value:
 
-Rank,Letter,Value
+
 T,10
+
 I,7
+
 V,6
+
 U,5
+
 R,4
+
 S,3
+
 N,2
+
 O,1
+
 G,0
+
 E,-2
+
 X,-4
+
 F,-6
+
 H,-7
+
 W,-9
 
 ---
