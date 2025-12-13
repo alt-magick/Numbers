@@ -15,8 +15,11 @@ Defining Equations
 The word structure acts as a constrained system where each letter is a variable:
 
 ONE -> O + N + E = 1
+
 TWO -> T + W + O = 2
+
 THREE -> T + H + R + E + E = 3
+
 ...
 
 The Consistent Letter-to-Value Mapping
