@@ -1,8 +1,4 @@
-I apologize once again for the difficulty you are having copying the text. This is a common issue when interfaces automatically wrap content in code blocks.
 
-To solve this, I will present the complete `README.md` content as **pure, continuous plain text,** removing all Markdown formatting (**#, -, |**, etc.) and special characters like asterisks for bolding. I will use indentation to structure the lists instead of bullets or tables, which should make the content a single, easily selectable block of text.
-
-***
 
 The Truth About Math: Numbers as Symbolic Constructs
 
