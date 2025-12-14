@@ -14,13 +14,18 @@ The word structure acts as a constrained system where each letter is a variable:
 
 ZERO -> Z + E + R + O = 0
 
+
 ONE -> O + N + E = 1
+
 
 TWO -> T + W + O = 2
 
+
 THREE -> T + H + R + E + E = 3
 
+
 TEN -> T + E + N = 10
+
 
 **The Consistent Letter-to-Value Mapping (Zero through Ten)**
 
