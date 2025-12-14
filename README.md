@@ -1,5 +1,4 @@
-
-## The Truth About Math: Numbers as Symbolic Constructs (Extended with ZERO)
+## The Truth About Math: Numbers as Symbolic Constructs
 
 The fundamental nature of mathematics—its objectivity, certainty, and universality—forms the bedrock of modern logic. This essay documents an experiment that challenges this foundation, proposing that numbers are sophisticated **constructs of human cognition** and demonstrating how arithmetic and language can merge into a single, symbolic universe.
 
